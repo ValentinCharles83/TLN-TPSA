@@ -1,0 +1,1301 @@
+POS Tags: [('All', 'PDT'), ('the', 'DT'), ('appetizers', 'NNS'), ('and', 'CC'), ('salads', 'NNS'), ('were', 'VBD'), ('fabulous', 'JJ'), (',', ','), ('the', 'DT'), ('steak', 'NN'), ('was', 'VBD'), ('mouth', 'JJ'), ('watering', 'NN'), ('and', 'CC'), ('the', 'DT'), ('pasta', 'NN'), ('was', 'VBD'), ('delicious', 'JJ'), ('!', '.'), ('!', '.'), ('!', '.')]
+Named Entities: (S
+  All/PDT
+  the/DT
+  appetizers/NNS
+  and/CC
+  salads/NNS
+  were/VBD
+  fabulous/JJ
+  ,/,
+  the/DT
+  steak/NN
+  was/VBD
+  mouth/JJ
+  watering/NN
+  and/CC
+  the/DT
+  pasta/NN
+  was/VBD
+  delicious/JJ
+  !/.
+  !/.
+  !/.)
+
+POS Tags: [('And', 'CC'), ('really', 'RB'), ('large', 'JJ'), ('portions', 'NNS'), ('.', '.')]
+Named Entities: (S And/CC really/RB large/JJ portions/NNS ./.)
+
+POS Tags: [('Go', 'NNP'), ('inside', 'RB'), ('and', 'CC'), ('you', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('want', 'VB'), ('to', 'TO'), ('leave', 'VB'), ('.', '.')]
+Named Entities: (S
+  Go/NNP
+  inside/RB
+  and/CC
+  you/PRP
+  wo/MD
+  n't/RB
+  want/VB
+  to/TO
+  leave/VB
+  ./.)
+
+POS Tags: [('Save', 'VB'), ('yourself', 'PRP'), ('the', 'DT'), ('time', 'NN'), ('and', 'CC'), ('trouble', 'NN'), ('and', 'CC'), ('skip', 'NN'), ('this', 'DT'), ('one', 'CD'), ('!', '.')]
+Named Entities: (S
+  Save/VB
+  yourself/PRP
+  the/DT
+  time/NN
+  and/CC
+  trouble/NN
+  and/CC
+  skip/NN
+  this/DT
+  one/CD
+  !/.)
+
+POS Tags: [('The', 'DT'), ('sweet', 'JJ'), ('lassi', 'NN'), ('was', 'VBD'), ('excellent', 'JJ'), ('as', 'IN'), ('was', 'VBD'), ('the', 'DT'), ('lamb', 'JJ'), ('chettinad', 'NN'), ('and', 'CC'), ('the', 'DT'), ('garlic', 'JJ'), ('naan', 'NN'), ('but', 'CC'), ('the', 'DT'), ('rasamalai', 'NN'), ('was', 'VBD'), ('forgettable', 'JJ'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  sweet/JJ
+  lassi/NN
+  was/VBD
+  excellent/JJ
+  as/IN
+  was/VBD
+  the/DT
+  lamb/JJ
+  chettinad/NN
+  and/CC
+  the/DT
+  garlic/JJ
+  naan/NN
+  but/CC
+  the/DT
+  rasamalai/NN
+  was/VBD
+  forgettable/JJ
+  ./.)
+
+POS Tags: [('Service', 'NNP'), ('was', 'VBD'), ('quick', 'JJ'), ('.', '.')]
+Named Entities: (S (GPE Service/NNP) was/VBD quick/JJ ./.)
+
+POS Tags: [('Oh', 'UH'), (',', ','), ('do', 'VBP'), ("n't", 'RB'), ('even', 'RB'), ('let', 'VB'), ('me', 'PRP'), ('start', 'VB'), ('with', 'IN'), ('how', 'WRB'), ('expensive', 'JJ'), ('the', 'DT'), ('bills', 'NNS'), ('were', 'VBD'), ('!', '.')]
+Named Entities: (S
+  Oh/UH
+  ,/,
+  do/VBP
+  n't/RB
+  even/RB
+  let/VB
+  me/PRP
+  start/VB
+  with/IN
+  how/WRB
+  expensive/JJ
+  the/DT
+  bills/NNS
+  were/VBD
+  !/.)
+
+POS Tags: [('Service', 'NNP'), ('is', 'VBZ'), ('top', 'JJ'), ('notch', 'NN'), ('.', '.')]
+Named Entities: (S (GPE Service/NNP) is/VBZ top/JJ notch/NN ./.)
+
+POS Tags: [('The', 'DT'), ('best', 'JJS'), ('thing', 'NN'), ('I', 'PRP'), ('tasted', 'VBD'), ('were', 'VBD'), ('the', 'DT'), ('lambc', 'JJ'), ('hops', 'NNS'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  best/JJS
+  thing/NN
+  I/PRP
+  tasted/VBD
+  were/VBD
+  the/DT
+  lambc/JJ
+  hops/NNS
+  ./.)
+
+POS Tags: [('Overall', 'JJ'), ('I', 'PRP'), ('would', 'MD'), ('recommend', 'VB'), ('it', 'PRP'), ('and', 'CC'), ('go', 'VB'), ('back', 'RB'), ('again', 'RB'), ('.', '.')]
+Named Entities: (S
+  Overall/JJ
+  I/PRP
+  would/MD
+  recommend/VB
+  it/PRP
+  and/CC
+  go/VB
+  back/RB
+  again/RB
+  ./.)
+
+POS Tags: [('I', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('here', 'RB'), ('a', 'DT'), ('couple', 'NN'), ('of', 'IN'), ('times', 'NNS'), ('and', 'CC'), ('have', 'VBP'), ('not', 'RB'), ('been', 'VBN'), ('impressed', 'VBN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  've/VBP
+  been/VBN
+  here/RB
+  a/DT
+  couple/NN
+  of/IN
+  times/NNS
+  and/CC
+  have/VBP
+  not/RB
+  been/VBN
+  impressed/VBN
+  ./.)
+
+POS Tags: [('Even', 'RB'), ('though', 'IN'), ('its', 'PRP$'), ('good', 'JJ'), ('seafood', 'NN'), (',', ','), ('the', 'DT'), ('prices', 'NNS'), ('are', 'VBP'), ('too', 'RB'), ('high', 'JJ'), ('.', '.')]
+Named Entities: (S
+  Even/RB
+  though/IN
+  its/PRP$
+  good/JJ
+  seafood/NN
+  ,/,
+  the/DT
+  prices/NNS
+  are/VBP
+  too/RB
+  high/JJ
+  ./.)
+
+POS Tags: [('In', 'IN'), ('addition', 'NN'), (',', ','), ('the', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('very', 'RB'), ('good', 'JJ'), ('and', 'CC'), ('the', 'DT'), ('prices', 'NNS'), ('are', 'VBP'), ('reasonable', 'JJ'), ('.', '.')]
+Named Entities: (S
+  In/IN
+  addition/NN
+  ,/,
+  the/DT
+  food/NN
+  is/VBZ
+  very/RB
+  good/JJ
+  and/CC
+  the/DT
+  prices/NNS
+  are/VBP
+  reasonable/JJ
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('great', 'JJ'), ('and', 'CC'), ('authentic', 'JJ'), ('.', '.')]
+Named Entities: (S The/DT food/NN is/VBZ great/JJ and/CC authentic/JJ ./.)
+
+POS Tags: [('I', 'PRP'), ('was', 'VBD'), ('at', 'IN'), ('Rao', 'NNP'), ("'s", 'POS'), ('last', 'JJ'), ('Wed', 'NNP'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  was/VBD
+  at/IN
+  (ORGANIZATION Rao/NNP)
+  's/POS
+  last/JJ
+  Wed/NNP
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('recommend', 'VBP'), ('the', 'DT'), ('garlic', 'JJ'), ('shrimp', 'NN'), (',', ','), ('okra', 'NN'), ('(', '('), ('bindi', 'NN'), (')', ')'), (',', ','), ('and', 'CC'), ('anything', 'NN'), ('with', 'IN'), ('lamb', 'NN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  recommend/VBP
+  the/DT
+  garlic/JJ
+  shrimp/NN
+  ,/,
+  okra/NN
+  (/(
+  bindi/NN
+  )/)
+  ,/,
+  and/CC
+  anything/NN
+  with/IN
+  lamb/NN
+  ./.)
+
+POS Tags: [('The', 'DT'), ('menu', 'NN'), ('was', 'VBD'), ('impressive', 'JJ'), ('with', 'IN'), ('selections', 'NNS'), ('ranging', 'VBG'), ('from', 'IN'), ('a', 'DT'), ('burger', 'NN'), (',', ','), ('to', 'TO'), ('steak', 'VB'), (',', ','), ('to', 'TO'), ('escargot', 'VB'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  menu/NN
+  was/VBD
+  impressive/JJ
+  with/IN
+  selections/NNS
+  ranging/VBG
+  from/IN
+  a/DT
+  burger/NN
+  ,/,
+  to/TO
+  steak/VB
+  ,/,
+  to/TO
+  escargot/VB
+  ./.)
+
+POS Tags: [('very', 'RB'), ('good', 'JJ'), ('breads', 'NNS'), ('as', 'RB'), ('well', 'RB'), ('.', '.')]
+Named Entities: (S very/RB good/JJ breads/NNS as/RB well/RB ./.)
+
+POS Tags: [('Anyway', 'RB'), (',', ','), ('the', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('good', 'JJ'), (',', ','), ('the', 'DT'), ('price', 'NN'), ('is', 'VBZ'), ('right', 'JJ'), ('and', 'CC'), ('they', 'PRP'), ('have', 'VBP'), ('a', 'DT'), ('decent', 'JJ'), ('wine', 'NN'), ('list', 'NN'), ('.', '.')]
+Named Entities: (S
+  Anyway/RB
+  ,/,
+  the/DT
+  food/NN
+  is/VBZ
+  good/JJ
+  ,/,
+  the/DT
+  price/NN
+  is/VBZ
+  right/JJ
+  and/CC
+  they/PRP
+  have/VBP
+  a/DT
+  decent/JJ
+  wine/NN
+  list/NN
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('was', 'VBD'), ('lousy', 'JJ'), ('-too', 'NNP'), ('sweet', 'NN'), ('or', 'CC'), ('too', 'RB'), ('salty', 'JJ'), ('and', 'CC'), ('the', 'DT'), ('portions', 'NNS'), ('tiny', 'VBP'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  was/VBD
+  lousy/JJ
+  -too/NNP
+  sweet/NN
+  or/CC
+  too/RB
+  salty/JJ
+  and/CC
+  the/DT
+  portions/NNS
+  tiny/VBP
+  ./.)
+
+POS Tags: [('But', 'CC'), ('the', 'DT'), ('coconut', 'NN'), ('rice', 'NN'), ('was', 'VBD'), ('good', 'JJ'), ('.', '.')]
+Named Entities: (S But/CC the/DT coconut/NN rice/NN was/VBD good/JJ ./.)
+
+POS Tags: [('And', 'CC'), ('the', 'DT'), ('Tom', 'NNP'), ('Kha', 'NNP'), ('soup', 'NN'), ('was', 'VBD'), ('pathetic', 'JJ'), ('.', '.')]
+Named Entities: (S
+  And/CC
+  the/DT
+  (ORGANIZATION Tom/NNP Kha/NNP)
+  soup/NN
+  was/VBD
+  pathetic/JJ
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('now', 'RB'), ('is', 'VBZ'), ('inconsistent', 'JJ'), ('.', '.')]
+Named Entities: (S The/DT food/NN now/RB is/VBZ inconsistent/JJ ./.)
+
+POS Tags: [('Try', 'VB'), ('the', 'DT'), ('crunchy', 'NN'), ('tuna', 'NN'), (',', ','), ('it', 'PRP'), ('is', 'VBZ'), ('to', 'TO'), ('die', 'VB'), ('for', 'IN'), ('.', '.')]
+Named Entities: (S
+  Try/VB
+  the/DT
+  crunchy/NN
+  tuna/NN
+  ,/,
+  it/PRP
+  is/VBZ
+  to/TO
+  die/VB
+  for/IN
+  ./.)
+
+POS Tags: [('Reasonable', 'JJ'), ('prices', 'NNS'), ('.', '.')]
+Named Entities: (S Reasonable/JJ prices/NNS ./.)
+
+POS Tags: [('Everything', 'NN'), ('at', 'IN'), ('Sala', 'NNP'), ('Thai', 'NNP'), ('is', 'VBZ'), ('tasty', 'JJ'), ('and', 'CC'), ('well-portioned', 'JJ'), ('.', '.')]
+Named Entities: (S
+  Everything/NN
+  at/IN
+  (ORGANIZATION Sala/NNP Thai/NNP)
+  is/VBZ
+  tasty/JJ
+  and/CC
+  well-portioned/JJ
+  ./.)
+
+POS Tags: [('Add', 'NNP'), ('to', 'TO'), ('that', 'DT'), ('great', 'JJ'), ('service', 'NN'), ('and', 'CC'), ('great', 'JJ'), ('food', 'NN'), ('at', 'IN'), ('a', 'DT'), ('reasonable', 'JJ'), ('price', 'NN'), ('and', 'CC'), ('you', 'PRP'), ('have', 'VBP'), ('yourself', 'PRP'), ('the', 'DT'), ('beginning', 'NN'), ('of', 'IN'), ('a', 'DT'), ('great', 'JJ'), ('evening', 'NN'), ('.', '.')]
+Named Entities: (S
+  (GPE Add/NNP)
+  to/TO
+  that/DT
+  great/JJ
+  service/NN
+  and/CC
+  great/JJ
+  food/NN
+  at/IN
+  a/DT
+  reasonable/JJ
+  price/NN
+  and/CC
+  you/PRP
+  have/VBP
+  yourself/PRP
+  the/DT
+  beginning/NN
+  of/IN
+  a/DT
+  great/JJ
+  evening/NN
+  ./.)
+
+POS Tags: [('Unfortunately', 'RB'), (',', ','), ('the', 'DT'), ('food', 'NN'), ('was', 'VBD'), ('NOT', 'NNP'), ('something', 'NN'), ('to', 'TO'), ('get', 'VB'), ('worked', 'VBN'), ('up', 'RP'), ('about', 'RB'), ('.', '.')]
+Named Entities: (S
+  Unfortunately/RB
+  ,/,
+  the/DT
+  food/NN
+  was/VBD
+  (ORGANIZATION NOT/NNP)
+  something/NN
+  to/TO
+  get/VB
+  worked/VBN
+  up/RP
+  about/RB
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('great', 'JJ'), ('and', 'CC'), ('reasonably', 'RB'), ('priced', 'VBN'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  is/VBZ
+  great/JJ
+  and/CC
+  reasonably/RB
+  priced/VBN
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('got', 'VBD'), ('enough', 'JJ'), ('reasons', 'NNS'), ('to', 'TO'), ('keep', 'VB'), ('coming', 'VBG'), ('back', 'RB'), ('!', '.'), ('!', '.'), ('!', '.')]
+Named Entities: (S
+  I/PRP
+  got/VBD
+  enough/JJ
+  reasons/NNS
+  to/TO
+  keep/VB
+  coming/VBG
+  back/RB
+  !/.
+  !/.
+  !/.)
+
+POS Tags: [('Their', 'PRP$'), ('calzones', 'NNS'), ('are', 'VBP'), ('horrific', 'JJ'), (',', ','), ('bad', 'JJ'), (',', ','), ('vomit-inducing', 'JJ'), (',', ','), ('YUCK', 'NNP'), ('.', '.')]
+Named Entities: (S
+  Their/PRP$
+  calzones/NNS
+  are/VBP
+  horrific/JJ
+  ,/,
+  bad/JJ
+  ,/,
+  vomit-inducing/JJ
+  ,/,
+  (ORGANIZATION YUCK/NNP)
+  ./.)
+
+POS Tags: [('A', 'DT'), ('few', 'JJ'), ('tips', 'NNS'), (':', ':'), ('skip', 'VB'), ('the', 'DT'), ('turnip', 'NN'), ('cake', 'NN'), (',', ','), ('roast', 'NN'), ('pork', 'NN'), ('buns', 'NNS'), ('and', 'CC'), ('egg', 'NN'), ('custards', 'NNS'), ('.', '.')]
+Named Entities: (S
+  A/DT
+  few/JJ
+  tips/NNS
+  :/:
+  skip/VB
+  the/DT
+  turnip/NN
+  cake/NN
+  ,/,
+  roast/NN
+  pork/NN
+  buns/NNS
+  and/CC
+  egg/NN
+  custards/NNS
+  ./.)
+
+POS Tags: [('The', 'DT'), ('bagels', 'NNS'), ('are', 'VBP'), ('fabulous', 'JJ'), ('.', '.')]
+Named Entities: (S The/DT bagels/NNS are/VBP fabulous/JJ ./.)
+
+POS Tags: [('I', 'PRP'), ('never', 'RB'), ('had', 'VBD'), ('anything', 'NN'), ('I', 'PRP'), ('did', 'VBD'), ("n't", 'RB'), ('like', 'IN'), ('here', 'RB'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  never/RB
+  had/VBD
+  anything/NN
+  I/PRP
+  did/VBD
+  n't/RB
+  like/IN
+  here/RB
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('definitely', 'RB'), ('would', 'MD'), ("n't", 'RB'), ('go', 'VB'), ('back', 'RB'), ('.', '.')]
+Named Entities: (S I/PRP definitely/RB would/MD n't/RB go/VB back/RB ./.)
+
+POS Tags: [('While', 'IN'), ('the', 'DT'), ('ambiance', 'NN'), ('and', 'CC'), ('atmosphere', 'NN'), ('were', 'VBD'), ('great', 'JJ'), (',', ','), ('the', 'DT'), ('food', 'NN'), ('and', 'CC'), ('service', 'NN'), ('could', 'MD'), ('have', 'VB'), ('been', 'VBN'), ('a', 'DT'), ('lot', 'NN'), ('better', 'RBR'), ('.', '.')]
+Named Entities: (S
+  While/IN
+  the/DT
+  ambiance/NN
+  and/CC
+  atmosphere/NN
+  were/VBD
+  great/JJ
+  ,/,
+  the/DT
+  food/NN
+  and/CC
+  service/NN
+  could/MD
+  have/VB
+  been/VBN
+  a/DT
+  lot/NN
+  better/RBR
+  ./.)
+
+POS Tags: [('Our', 'PRP$'), ('waitress', 'NN'), ('was', 'VBD'), ('sweet', 'JJ'), ('and', 'CC'), ('accomodating', 'VBG'), (',', ','), ('not', 'RB'), ('overbearing', 'VBG'), ('.', '.')]
+Named Entities: (S
+  Our/PRP$
+  waitress/NN
+  was/VBD
+  sweet/JJ
+  and/CC
+  accomodating/VBG
+  ,/,
+  not/RB
+  overbearing/VBG
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('have', 'VBP'), ('tried', 'VBN'), ('literally', 'RB'), ('every', 'DT'), ('restaurant', 'NN'), ('on', 'IN'), ('curry', 'NN'), ('row', 'NN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  have/VBP
+  tried/VBN
+  literally/RB
+  every/DT
+  restaurant/NN
+  on/IN
+  curry/NN
+  row/NN
+  ./.)
+
+POS Tags: [('My', 'PRP$'), ('goodness', 'NN'), (',', ','), ('everything', 'NN'), ('from', 'IN'), ('the', 'DT'), ('fish', 'NN'), ('to', 'TO'), ('the', 'DT'), ('rice', 'NN'), ('to', 'TO'), ('the', 'DT'), ('seaweed', 'NN'), ('was', 'VBD'), ('absolutely', 'RB'), ('amazing', 'JJ'), ('.', '.')]
+Named Entities: (S
+  My/PRP$
+  goodness/NN
+  ,/,
+  everything/NN
+  from/IN
+  the/DT
+  fish/NN
+  to/TO
+  the/DT
+  rice/NN
+  to/TO
+  the/DT
+  seaweed/NN
+  was/VBD
+  absolutely/RB
+  amazing/JJ
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('went', 'VBD'), ('to', 'TO'), ('this', 'DT'), ('restaurant', 'NN'), ('with', 'IN'), ('a', 'DT'), ('woman', 'NN'), ('that', 'IN'), ('I', 'PRP'), ('met', 'VBD'), ('recently', 'RB'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  went/VBD
+  to/TO
+  this/DT
+  restaurant/NN
+  with/IN
+  a/DT
+  woman/NN
+  that/IN
+  I/PRP
+  met/VBD
+  recently/RB
+  ./.)
+
+POS Tags: [('Good', 'JJ'), ('spreads', 'NNS'), (',', ','), ('great', 'JJ'), ('beverage', 'NN'), ('selections', 'NNS'), ('and', 'CC'), ('bagels', 'NNS'), ('really', 'RB'), ('tasty', 'JJ'), ('.', '.')]
+Named Entities: (S
+  (GPE Good/JJ)
+  spreads/NNS
+  ,/,
+  great/JJ
+  beverage/NN
+  selections/NNS
+  and/CC
+  bagels/NNS
+  really/RB
+  tasty/JJ
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('options', 'NNS'), ('rule', 'NN'), ('.', '.')]
+Named Entities: (S The/DT food/NN options/NNS rule/NN ./.)
+
+POS Tags: [('Consistently', 'RB'), ('good', 'JJ'), ('Japanese', 'JJ'), ('Tapas', 'NNP'), ('.', '.')]
+Named Entities: (S Consistently/RB good/JJ (GPE Japanese/JJ) Tapas/NNP ./.)
+
+POS Tags: [('I', 'PRP'), ('went', 'VBD'), ('to', 'TO'), ('Ruby', 'NNP'), ('Foo', 'NNP'), ("'s", 'POS'), ('after', 'IN'), ('work', 'NN'), ('with', 'IN'), ('a', 'DT'), ('group', 'NN'), ('of', 'IN'), ('6', 'CD'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  went/VBD
+  to/TO
+  (PERSON Ruby/NNP Foo/NNP)
+  's/POS
+  after/IN
+  work/NN
+  with/IN
+  a/DT
+  group/NN
+  of/IN
+  6/CD
+  ./.)
+
+POS Tags: [('The', 'DT'), ('sushi', 'NN'), ('was', 'VBD'), ('awful', 'JJ'), ('!', '.')]
+Named Entities: (S The/DT sushi/NN was/VBD awful/JJ !/.)
+
+POS Tags: [('My', 'PRP$'), ('boyfriend', 'NN'), ('and', 'CC'), ('I', 'PRP'), ('went', 'VBD'), ('there', 'RB'), ('to', 'TO'), ('celebrate', 'VB'), ('my', 'PRP$'), ('birthday', 'NN'), ('the', 'DT'), ('other', 'JJ'), ('night', 'NN'), ('and', 'CC'), ('all', 'DT'), ('I', 'PRP'), ('can', 'MD'), ('say', 'VB'), ('is', 'VBZ'), ('that', 'IN'), ('it', 'PRP'), ('was', 'VBD'), ('magnificent', 'JJ'), ('.', '.')]
+Named Entities: (S
+  My/PRP$
+  boyfriend/NN
+  and/CC
+  I/PRP
+  went/VBD
+  there/RB
+  to/TO
+  celebrate/VB
+  my/PRP$
+  birthday/NN
+  the/DT
+  other/JJ
+  night/NN
+  and/CC
+  all/DT
+  I/PRP
+  can/MD
+  say/VB
+  is/VBZ
+  that/IN
+  it/PRP
+  was/VBD
+  magnificent/JJ
+  ./.)
+
+POS Tags: [('Now', 'RB'), ('it', 'PRP'), ("'s", 'VBZ'), ('so', 'RB'), ('crowded', 'JJ'), ('and', 'CC'), ('loud', 'JJ'), ('you', 'PRP'), ('ca', 'MD'), ("n't", 'RB'), ('even', 'RB'), ('talk', 'VB'), ('to', 'TO'), ('the', 'DT'), ('person', 'NN'), ('next', 'JJ'), ('to', 'TO'), ('you', 'PRP'), ('.', '.')]
+Named Entities: (S
+  Now/RB
+  it/PRP
+  's/VBZ
+  so/RB
+  crowded/JJ
+  and/CC
+  loud/JJ
+  you/PRP
+  ca/MD
+  n't/RB
+  even/RB
+  talk/VB
+  to/TO
+  the/DT
+  person/NN
+  next/JJ
+  to/TO
+  you/PRP
+  ./.)
+
+POS Tags: [('Go', 'NNP'), (',', ','), ('go', 'VB'), (',', ','), ('hurry', 'NN'), (',', ','), ('before', 'IN'), ('everyone', 'NN'), ('finds', 'VBZ'), ('out', 'RP'), ('about', 'IN'), ('it', 'PRP'), ('.', '.')]
+Named Entities: (S
+  (GPE Go/NNP)
+  ,/,
+  go/VB
+  ,/,
+  hurry/NN
+  ,/,
+  before/IN
+  everyone/NN
+  finds/VBZ
+  out/RP
+  about/IN
+  it/PRP
+  ./.)
+
+POS Tags: [('I', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('many', 'JJ'), ('time', 'NN'), ('and', 'CC'), ('have', 'VBP'), ('never', 'RB'), ('been', 'VBN'), ('disappointed', 'VBN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  've/VBP
+  been/VBN
+  many/JJ
+  time/NN
+  and/CC
+  have/VBP
+  never/RB
+  been/VBN
+  disappointed/VBN
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('was', 'VBD'), ('great', 'JJ'), ('.', '.')]
+Named Entities: (S The/DT food/NN was/VBD great/JJ ./.)
+
+POS Tags: [('Do', 'VBP'), ("n't", 'RB'), ('leave', 'VB'), ('without', 'IN'), ('trying', 'VBG'), ('One', 'CD'), ('Night', 'NNP'), ('in', 'IN'), ('Tokyo', 'NNP'), ('.', '.')]
+Named Entities: (S
+  Do/VBP
+  n't/RB
+  leave/VB
+  without/IN
+  trying/VBG
+  One/CD
+  Night/NNP
+  in/IN
+  (GPE Tokyo/NNP)
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('would', 'MD'), ('go', 'VB'), ('back', 'RB'), ('tho', 'NN'), ('.', '.')]
+Named Entities: (S I/PRP would/MD go/VB back/RB tho/NN ./.)
+
+POS Tags: [('Definately', 'RB'), ('check', 'VB'), ('it', 'PRP'), ('out', 'RP'), ('!', '.'), ('!', '.'), ('!', '.')]
+Named Entities: (S Definately/RB check/VB it/PRP out/RP !/. !/. !/.)
+
+POS Tags: [('You', 'PRP'), ('can', 'MD'), ('not', 'RB'), ('go', 'VB'), ('wrong', 'JJ'), ('with', 'IN'), ('this', 'DT'), ('place', 'NN'), ('.', '.')]
+Named Entities: (S You/PRP can/MD not/RB go/VB wrong/JJ with/IN this/DT place/NN ./.)
+
+POS Tags: [('As', 'IN'), ('a', 'DT'), ('Japanese', 'JJ'), ('native', 'JJ'), (',', ','), ('I', 'PRP'), ("'ve", 'VBP'), ('lived', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('Tristate', 'NNP'), ('area', 'NN'), ('for', 'IN'), ('over', 'IN'), ('8', 'CD'), ('years', 'NNS'), (',', ','), ('but', 'CC'), ('I', 'PRP'), ('was', 'VBD'), ('just', 'RB'), ('so', 'RB'), ('amazed', 'JJ'), ('at', 'IN'), ('this', 'DT'), ('place', 'NN'), ('.', '.')]
+Named Entities: (S
+  As/IN
+  a/DT
+  (GPE Japanese/JJ)
+  native/JJ
+  ,/,
+  I/PRP
+  've/VBP
+  lived/VBN
+  in/IN
+  the/DT
+  (ORGANIZATION Tristate/NNP)
+  area/NN
+  for/IN
+  over/IN
+  8/CD
+  years/NNS
+  ,/,
+  but/CC
+  I/PRP
+  was/VBD
+  just/RB
+  so/RB
+  amazed/JJ
+  at/IN
+  this/DT
+  place/NN
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('loving', 'VBG'), ('bringing', 'VBG'), ('friends', 'NNS'), ('here', 'RB'), ('-and', 'VBP'), ('I', 'PRP'), ('do', 'VBP'), ('so', 'RB'), ('every', 'DT'), ('chance', 'NN'), ('I', 'PRP'), ('get', 'VBP'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  loving/VBG
+  bringing/VBG
+  friends/NNS
+  here/RB
+  -and/VBP
+  I/PRP
+  do/VBP
+  so/RB
+  every/DT
+  chance/NN
+  I/PRP
+  get/VBP
+  ./.)
+
+POS Tags: [('With', 'IN'), ('the', 'DT'), ('theater', 'NN'), ('2', 'CD'), ('blocks', 'NNS'), ('away', 'RB'), ('we', 'PRP'), ('had', 'VBD'), ('a', 'DT'), ('delicious', 'JJ'), ('meal', 'NN'), ('in', 'IN'), ('a', 'DT'), ('beautiful', 'JJ'), ('room', 'NN'), ('.', '.')]
+Named Entities: (S
+  With/IN
+  the/DT
+  theater/NN
+  2/CD
+  blocks/NNS
+  away/RB
+  we/PRP
+  had/VBD
+  a/DT
+  delicious/JJ
+  meal/NN
+  in/IN
+  a/DT
+  beautiful/JJ
+  room/NN
+  ./.)
+
+POS Tags: [('Even', 'RB'), ('my', 'PRP$'), ('Indian', 'JJ'), ('friend', 'NN'), ('could', 'MD'), ("n't", 'RB'), ('believe', 'VB'), ('how', 'WRB'), ('good', 'JJ'), ('and', 'CC'), ('tasty', 'JJ'), ('everything', 'NN'), ('was', 'VBD'), ('.', '.')]
+Named Entities: (S
+  Even/RB
+  my/PRP$
+  (GPE Indian/JJ)
+  friend/NN
+  could/MD
+  n't/RB
+  believe/VB
+  how/WRB
+  good/JJ
+  and/CC
+  tasty/JJ
+  everything/NN
+  was/VBD
+  ./.)
+
+POS Tags: [('We', 'PRP'), ('were', 'VBD'), ('not', 'RB'), ('dissappointed', 'VBN'), ('in', 'IN'), ('the', 'DT'), ('least', 'JJS'), ('bit', 'NN'), ('by', 'IN'), ('this', 'DT'), ('little', 'JJ'), ('gem', 'NN'), ('.', '.')]
+Named Entities: (S
+  We/PRP
+  were/VBD
+  not/RB
+  dissappointed/VBN
+  in/IN
+  the/DT
+  least/JJS
+  bit/NN
+  by/IN
+  this/DT
+  little/JJ
+  gem/NN
+  ./.)
+
+POS Tags: [('A', 'DT'), ('pleasant', 'JJ'), ('surprise', 'NN'), ('.', '.')]
+Named Entities: (S A/DT pleasant/JJ surprise/NN ./.)
+
+POS Tags: [('This', 'DT'), ('was', 'VBD'), ('a', 'DT'), ('repeat', 'NN'), ('visit', 'NN'), ('and', 'CC'), ('we', 'PRP'), ("'ll", 'MD'), ('definitely', 'RB'), ('be', 'VB'), ('back', 'RB'), ('again', 'RB'), ('.', '.')]
+Named Entities: (S
+  This/DT
+  was/VBD
+  a/DT
+  repeat/NN
+  visit/NN
+  and/CC
+  we/PRP
+  'll/MD
+  definitely/RB
+  be/VB
+  back/RB
+  again/RB
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('love', 'VBP'), ('the', 'DT'), ('fact', 'NN'), ('that', 'IN'), ('the', 'DT'), ('pizza', 'NN'), ('tastes', 'NNS'), ('so', 'RB'), ('good', 'JJ'), ('and', 'CC'), ('is', 'VBZ'), ('so', 'RB'), ('cheap', 'JJ'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  love/VBP
+  the/DT
+  fact/NN
+  that/IN
+  the/DT
+  pizza/NN
+  tastes/NNS
+  so/RB
+  good/JJ
+  and/CC
+  is/VBZ
+  so/RB
+  cheap/JJ
+  ./.)
+
+POS Tags: [('Service', 'NNP'), ('was', 'VBD'), ('prompt', 'JJ'), (',', ','), ('friendly', 'JJ'), ('and', 'CC'), ('great', 'JJ'), ('.', '.')]
+Named Entities: (S
+  (GPE Service/NNP)
+  was/VBD
+  prompt/JJ
+  ,/,
+  friendly/JJ
+  and/CC
+  great/JJ
+  ./.)
+
+POS Tags: [('OU', 'NNP'), ('MUST', 'NNP'), ('TRY', 'NNP'), ('THIS', 'NNP'), ('RESTAURANT', 'NNP'), ('.', '.')]
+Named Entities: (S OU/NNP MUST/NNP TRY/NNP THIS/NNP RESTAURANT/NNP ./.)
+
+POS Tags: [('All', 'DT'), ('pretty', 'RB'), ('good', 'JJ'), ('.', '.')]
+Named Entities: (S All/DT pretty/RB good/JJ ./.)
+
+POS Tags: [('Have', 'VBP'), ('eaten', 'VBN'), ('at', 'IN'), ('Ginger', 'NNP'), ('House', 'NNP'), ('several', 'JJ'), ('times', 'NNS'), (',', ','), ('and', 'CC'), ('it', 'PRP'), ("'s", 'VBZ'), ('always', 'RB'), ('good', 'JJ'), ('.', '.')]
+Named Entities: (S
+  Have/VBP
+  eaten/VBN
+  at/IN
+  (FACILITY Ginger/NNP House/NNP)
+  several/JJ
+  times/NNS
+  ,/,
+  and/CC
+  it/PRP
+  's/VBZ
+  always/RB
+  good/JJ
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('have', 'VBP'), ("n't", 'RB'), ('eat', 'VB'), ('a', 'DT'), ('lamb', 'NN'), ('chop', 'NN'), ('as', 'RB'), ('delicious', 'JJ'), ('as', 'IN'), ('that', 'DT'), (',', ','), ('the', 'DT'), ('salads', 'NNS'), ('are', 'VBP'), ('really', 'RB'), ('nice', 'JJ'), ('dressed', 'VBN'), ('with', 'IN'), ('lemon', 'NN'), ('and', 'CC'), ('extra', 'JJ'), ('virgnin', 'NN'), ('olive', 'JJ'), ('oil', 'NN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  have/VBP
+  n't/RB
+  eat/VB
+  a/DT
+  lamb/NN
+  chop/NN
+  as/RB
+  delicious/JJ
+  as/IN
+  that/DT
+  ,/,
+  the/DT
+  salads/NNS
+  are/VBP
+  really/RB
+  nice/JJ
+  dressed/VBN
+  with/IN
+  lemon/NN
+  and/CC
+  extra/JJ
+  virgnin/NN
+  olive/JJ
+  oil/NN
+  ./.)
+
+POS Tags: [('Drawbacks', 'NNS'), (':', ':'), ('service', 'NN'), ('is', 'VBZ'), ('slow', 'JJ'), ('and', 'CC'), ('they', 'PRP'), ('do', 'VBP'), ("n't", 'RB'), ('toast', 'VB'), ('!', '.')]
+Named Entities: (S
+  Drawbacks/NNS
+  :/:
+  service/NN
+  is/VBZ
+  slow/JJ
+  and/CC
+  they/PRP
+  do/VBP
+  n't/RB
+  toast/VB
+  !/.)
+
+POS Tags: [('It', 'PRP'), ('is', 'VBZ'), ('by', 'IN'), ('far', 'RB'), ('my', 'PRP$'), ('favorite', 'JJ'), ('restaurant', 'NN'), ('in', 'IN'), ('Brooklyn', 'NNP'), ('.', '.')]
+Named Entities: (S
+  It/PRP
+  is/VBZ
+  by/IN
+  far/RB
+  my/PRP$
+  favorite/JJ
+  restaurant/NN
+  in/IN
+  (GPE Brooklyn/NNP)
+  ./.)
+
+POS Tags: [('I', 'PRP'), ("'ve", 'VBP'), ('been', 'VBN'), ('to', 'TO'), ('Joya', 'NNP'), ('twice', 'RB'), ('and', 'CC'), ('I', 'PRP'), ('will', 'MD'), ('never', 'RB'), ('go', 'VB'), ('again', 'RB'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  've/VBP
+  been/VBN
+  to/TO
+  (PERSON Joya/NNP)
+  twice/RB
+  and/CC
+  I/PRP
+  will/MD
+  never/RB
+  go/VB
+  again/RB
+  ./.)
+
+POS Tags: [('A', 'DT'), ('hearty', 'NN'), ('two', 'CD'), ('thumbs', 'VBP'), ('up', 'RB'), ('!', '.')]
+Named Entities: (S A/DT hearty/NN two/CD thumbs/VBP up/RB !/.)
+
+POS Tags: [('Great', 'JJ'), ('find', 'NN'), ('!', '.'), ('!', '.'), ('!', '.')]
+Named Entities: (S (GPE Great/JJ) find/NN !/. !/. !/.)
+
+POS Tags: [('If', 'IN'), ('only', 'RB'), ('they', 'PRP'), ('delivered', 'VBD'), (',', ','), ('they', 'PRP'), ("'d", 'MD'), ('make', 'VB'), ('a', 'DT'), ('mint', 'NN'), ('!', '.')]
+Named Entities: (S
+  If/IN
+  only/RB
+  they/PRP
+  delivered/VBD
+  ,/,
+  they/PRP
+  'd/MD
+  make/VB
+  a/DT
+  mint/NN
+  !/.)
+
+POS Tags: [('Was', 'NNP'), ('surprisingly', 'RB'), ('disappointed', 'VBD'), ('.', '.')]
+Named Entities: (S (GPE Was/NNP) surprisingly/RB disappointed/VBD ./.)
+
+POS Tags: [('The', 'DT'), ('prices', 'NNS'), ('were', 'VBD'), ('fantastic', 'JJ'), ('.', '.')]
+Named Entities: (S The/DT prices/NNS were/VBD fantastic/JJ ./.)
+
+POS Tags: [('I', 'PRP'), ("'m", 'VBP'), ('told', 'JJ'), ('that', 'IN'), ('it', 'PRP'), ('is', 'VBZ'), ('open', 'JJ'), ('24hrs', 'CD'), ('which', 'WDT'), ('is', 'VBZ'), ('good', 'JJ'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  'm/VBP
+  told/JJ
+  that/IN
+  it/PRP
+  is/VBZ
+  open/JJ
+  24hrs/CD
+  which/WDT
+  is/VBZ
+  good/JJ
+  ./.)
+
+POS Tags: [('What', 'WP'), ('more', 'JJR'), ('could', 'MD'), ('you', 'PRP'), ('want', 'VB'), ('?', '.')]
+Named Entities: (S What/WP more/JJR could/MD you/PRP want/VB ?/.)
+
+POS Tags: [('Excellent', 'JJ'), ('experience', 'NN'), ('.', '.')]
+Named Entities: (S Excellent/JJ experience/NN ./.)
+
+POS Tags: [('Definitely', 'RB'), ('a', 'DT'), ('neighborhood', 'NN'), ('favorite', 'NN'), ('.', '.')]
+Named Entities: (S Definitely/RB a/DT neighborhood/NN favorite/NN ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('terrible', 'JJ'), ('and', 'CC'), ('overall', 'JJ'), (',', ','), ('I', 'PRP'), ('would', 'MD'), ('have', 'VB'), ('to', 'TO'), ('say', 'VB'), ('avoid', 'NN'), ('at', 'IN'), ('all', 'DT'), ('costs', 'NNS'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  is/VBZ
+  terrible/JJ
+  and/CC
+  overall/JJ
+  ,/,
+  I/PRP
+  would/MD
+  have/VB
+  to/TO
+  say/VB
+  avoid/NN
+  at/IN
+  all/DT
+  costs/NNS
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('prepared', 'JJ'), ('quickly', 'RB'), ('and', 'CC'), ('efficiently', 'RB'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  is/VBZ
+  prepared/JJ
+  quickly/RB
+  and/CC
+  efficiently/RB
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('fresh', 'JJ'), (',', ','), ('delicious', 'JJ'), (',', ','), ('and', 'CC'), ('reasonably', 'RB'), ('priced', 'VBN'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  is/VBZ
+  fresh/JJ
+  ,/,
+  delicious/JJ
+  ,/,
+  and/CC
+  reasonably/RB
+  priced/VBN
+  ./.)
+
+POS Tags: [('This', 'DT'), ('is', 'VBZ'), ('my', 'PRP$'), ('favorite', 'JJ'), ('Italian', 'JJ'), ('restaurant', 'NN'), ('in', 'IN'), ('all', 'DT'), ('of', 'IN'), ('New', 'NNP'), ('York', 'NNP'), ('City', 'NNP'), ('.', '.')]
+Named Entities: (S
+  This/DT
+  is/VBZ
+  my/PRP$
+  favorite/JJ
+  (GPE Italian/JJ)
+  restaurant/NN
+  in/IN
+  all/DT
+  of/IN
+  (GPE New/NNP York/NNP City/NNP)
+  ./.)
+
+POS Tags: [('Anyway', 'RB'), (',', ','), ('this', 'DT'), ('is', 'VBZ'), ('the', 'DT'), ('last', 'JJ'), ('time', 'NN'), ('I', 'PRP'), ('cross', 'VBP'), ('the', 'DT'), ('williamsburg', 'NN'), ('.', '.')]
+Named Entities: (S
+  Anyway/RB
+  ,/,
+  this/DT
+  is/VBZ
+  the/DT
+  last/JJ
+  time/NN
+  I/PRP
+  cross/VBP
+  the/DT
+  williamsburg/NN
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('am', 'VBP'), ('bringing', 'VBG'), ('my', 'PRP$'), ('whole', 'JJ'), ('family', 'NN'), ('back', 'RB'), ('next', 'JJ'), ('time', 'NN'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  am/VBP
+  bringing/VBG
+  my/PRP$
+  whole/JJ
+  family/NN
+  back/RB
+  next/JJ
+  time/NN
+  ./.)
+
+POS Tags: [('Love', 'NNP'), ('YUKA', 'NNP'), ('.', '.')]
+Named Entities: (S (PERSON Love/NNP) (GPE YUKA/NNP) ./.)
+
+POS Tags: [('As', 'IN'), ('we', 'PRP'), ('were', 'VBD'), ('leaving', 'VBG'), (',', ','), ('the', 'DT'), ('couple', 'NN'), ('standing', 'NN'), ('by', 'IN'), ('the', 'DT'), ('door', 'NN'), ('said', 'VBD'), ('to', 'TO'), ('another', 'DT'), ('waiter', 'NN'), (',', ','), ('we', 'PRP'), ("'re", 'VBP'), ('not', 'RB'), ('in', 'IN'), ('a', 'DT'), ('hurry', 'NN'), ('.', '.')]
+Named Entities: (S
+  As/IN
+  we/PRP
+  were/VBD
+  leaving/VBG
+  ,/,
+  the/DT
+  couple/NN
+  standing/NN
+  by/IN
+  the/DT
+  door/NN
+  said/VBD
+  to/TO
+  another/DT
+  waiter/NN
+  ,/,
+  we/PRP
+  're/VBP
+  not/RB
+  in/IN
+  a/DT
+  hurry/NN
+  ./.)
+
+POS Tags: [('I', 'PRP'), ('have', 'VBP'), ('been', 'VBN'), ('coming', 'VBG'), ('to', 'TO'), ('this', 'DT'), ('neighborhood', 'NN'), ('spot', 'NN'), ('for', 'IN'), ('years', 'NNS'), ('.', '.')]
+Named Entities: (S
+  I/PRP
+  have/VBP
+  been/VBN
+  coming/VBG
+  to/TO
+  this/DT
+  neighborhood/NN
+  spot/NN
+  for/IN
+  years/NNS
+  ./.)
+
+POS Tags: [('We', 'PRP'), ('will', 'MD'), ('be', 'VB'), ('back', 'RB'), ('.', '.')]
+Named Entities: (S We/PRP will/MD be/VB back/RB ./.)
+
+POS Tags: [('The', 'DT'), ('outdoor', 'NN'), ('atmosphere', 'NN'), ('of', 'IN'), ('sitting', 'VBG'), ('on', 'IN'), ('the', 'DT'), ('sidewalk', 'NN'), ('watching', 'VBG'), ('the', 'DT'), ('world', 'NN'), ('go', 'VBP'), ('by', 'IN'), ('50', 'CD'), ('feet', 'NNS'), ('away', 'RB'), ('on', 'IN'), ('6th', 'CD'), ('avenue', 'NN'), ('on', 'IN'), ('a', 'DT'), ('cool', 'JJ'), ('evening', 'NN'), ('was', 'VBD'), ('wonderful', 'JJ'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  outdoor/NN
+  atmosphere/NN
+  of/IN
+  sitting/VBG
+  on/IN
+  the/DT
+  sidewalk/NN
+  watching/VBG
+  the/DT
+  world/NN
+  go/VBP
+  by/IN
+  50/CD
+  feet/NNS
+  away/RB
+  on/IN
+  6th/CD
+  avenue/NN
+  on/IN
+  a/DT
+  cool/JJ
+  evening/NN
+  was/VBD
+  wonderful/JJ
+  ./.)
+
+POS Tags: [('A', 'DT'), ('large', 'JJ'), ('is', 'VBZ'), ('$', '$'), ('20', 'CD'), (',', ','), ('and', 'CC'), ('toppings', 'NNS'), ('are', 'VBP'), ('about', 'IN'), ('$', '$'), ('3', 'CD'), ('each', 'DT'), ('.', '.')]
+Named Entities: (S
+  A/DT
+  large/JJ
+  is/VBZ
+  $/$
+  20/CD
+  ,/,
+  and/CC
+  toppings/NNS
+  are/VBP
+  about/IN
+  $/$
+  3/CD
+  each/DT
+  ./.)
+
+POS Tags: [('The', 'DT'), ('spicy', 'NN'), ('tuna', 'NN'), ('and', 'CC'), ('salmon', 'NN'), ('are', 'VBP'), ('the', 'DT'), ('best', 'JJS'), ('we', 'PRP'), ("'ve", 'VBP'), ('ever', 'RB'), ('had', 'VBN'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  spicy/NN
+  tuna/NN
+  and/CC
+  salmon/NN
+  are/VBP
+  the/DT
+  best/JJS
+  we/PRP
+  've/VBP
+  ever/RB
+  had/VBN
+  ./.)
+
+POS Tags: [('A', 'DT'), ('guaranteeed', 'NN'), ('delight', 'NN'), ('!', '.')]
+Named Entities: (S A/DT guaranteeed/NN delight/NN !/.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('was', 'VBD'), ('very', 'RB'), ('good', 'JJ'), (',', ','), ('a', 'DT'), ('great', 'JJ'), ('deal', 'NN'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('place', 'NN'), ('its', 'PRP$'), ('self', 'NN'), ('was', 'VBD'), ('great', 'JJ'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  was/VBD
+  very/RB
+  good/JJ
+  ,/,
+  a/DT
+  great/JJ
+  deal/NN
+  ,/,
+  and/CC
+  the/DT
+  place/NN
+  its/PRP$
+  self/NN
+  was/VBD
+  great/JJ
+  ./.)
+
+POS Tags: [('The', 'DT'), ('food', 'NN'), ('is', 'VBZ'), ('usually', 'RB'), ('good', 'JJ'), ('but', 'CC'), ('it', 'PRP'), ('certainly', 'RB'), ('is', 'VBZ'), ("n't", 'RB'), ('a', 'DT'), ('relaxing', 'JJ'), ('place', 'NN'), ('to', 'TO'), ('go', 'VB'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  food/NN
+  is/VBZ
+  usually/RB
+  good/JJ
+  but/CC
+  it/PRP
+  certainly/RB
+  is/VBZ
+  n't/RB
+  a/DT
+  relaxing/JJ
+  place/NN
+  to/TO
+  go/VB
+  ./.)
+
+POS Tags: [('After', 'IN'), ('dinner', 'NN'), (',', ','), ('take', 'VB'), ('your', 'PRP$'), ('date', 'NN'), ('to', 'TO'), ('the', 'DT'), ('HUGE', 'NNP'), ('dance', 'NN'), ('floor', 'NN'), (',', ','), ('probably', 'RB'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('biggest', 'JJS'), ('you', 'PRP'), ("'ll", 'MD'), ('see', 'VB'), ('in', 'IN'), ('NY', 'NNP'), ('.', '.')]
+Named Entities: (S
+  After/IN
+  dinner/NN
+  ,/,
+  take/VB
+  your/PRP$
+  date/NN
+  to/TO
+  the/DT
+  (ORGANIZATION HUGE/NNP)
+  dance/NN
+  floor/NN
+  ,/,
+  probably/RB
+  one/CD
+  of/IN
+  the/DT
+  biggest/JJS
+  you/PRP
+  'll/MD
+  see/VB
+  in/IN
+  NY/NNP
+  ./.)
+
+POS Tags: [('The', 'DT'), ('server', 'NN'), ('was', 'VBD'), ('really', 'RB'), ('cool', 'JJ'), ('and', 'CC'), ('served', 'VBD'), ('us', 'PRP'), ('our', 'PRP$'), ('food', 'NN'), ('and', 'CC'), ('drinks', 'NNS'), ('with', 'IN'), ('a', 'DT'), ('smile', 'NN'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  server/NN
+  was/VBD
+  really/RB
+  cool/JJ
+  and/CC
+  served/VBD
+  us/PRP
+  our/PRP$
+  food/NN
+  and/CC
+  drinks/NNS
+  with/IN
+  a/DT
+  smile/NN
+  ./.)
+
+POS Tags: [('The', 'DT'), ('dishes', 'NNS'), ('offered', 'VBN'), ('were', 'VBD'), ('unique', 'JJ'), (',', ','), ('very', 'RB'), ('tasty', 'JJ'), ('and', 'CC'), ('fresh', 'JJ'), ('from', 'IN'), ('the', 'DT'), ('lamb', 'NN'), ('sausages', 'NNS'), (',', ','), ('sardines', 'NNS'), ('with', 'IN'), ('biscuits', 'NNS'), (',', ','), ('large', 'JJ'), ('whole', 'JJ'), ('shrimp', 'NN'), ('to', 'TO'), ('the', 'DT'), ('amazing', 'JJ'), ('pistachio', 'NN'), ('ice', 'NN'), ('cream', 'NN'), ('(', '('), ('the', 'DT'), ('best', 'JJS'), ('and', 'CC'), ('freshest', 'JJS'), ('I', 'PRP'), ("'ve", 'VBP'), ('ever', 'RB'), ('had', 'VBN'), (')', ')'), ('.', '.')]
+Named Entities: (S
+  The/DT
+  dishes/NNS
+  offered/VBN
+  were/VBD
+  unique/JJ
+  ,/,
+  very/RB
+  tasty/JJ
+  and/CC
+  fresh/JJ
+  from/IN
+  the/DT
+  lamb/NN
+  sausages/NNS
+  ,/,
+  sardines/NNS
+  with/IN
+  biscuits/NNS
+  ,/,
+  large/JJ
+  whole/JJ
+  shrimp/NN
+  to/TO
+  the/DT
+  amazing/JJ
+  pistachio/NN
+  ice/NN
+  cream/NN
+  (/(
+  the/DT
+  best/JJS
+  and/CC
+  freshest/JJS
+  I/PRP
+  've/VBP
+  ever/RB
+  had/VBN
+  )/)
+  ./.)
+
+POS Tags: [('Went', 'NN'), ('there', 'EX'), ('for', 'IN'), ('an', 'DT'), ('office', 'NN'), ('lunch', 'NN'), ('.', '.')]
+Named Entities: (S Went/NN there/EX for/IN an/DT office/NN lunch/NN ./.)
+
+POS Tags: [('We', 'PRP'), ("'ve", 'VBP'), ('only', 'RB'), ('eaten', 'RB'), ('in', 'IN'), ('the', 'DT'), ('restaurant', 'NN'), ('once', 'RB'), (',', ','), ('but', 'CC'), ('we', 'PRP'), ('have', 'VBP'), ('ordered', 'VBN'), ('many', 'JJ'), ('times', 'NNS'), ('for', 'IN'), ('dinner', 'NN'), ('.', '.')]
+Named Entities: (S
+  We/PRP
+  've/VBP
+  only/RB
+  eaten/RB
+  in/IN
+  the/DT
+  restaurant/NN
+  once/RB
+  ,/,
+  but/CC
+  we/PRP
+  have/VBP
+  ordered/VBN
+  many/JJ
+  times/NNS
+  for/IN
+  dinner/NN
+  ./.)
+
