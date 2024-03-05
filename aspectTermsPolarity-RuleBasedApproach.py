@@ -87,8 +87,6 @@ def determine_polarity(sentiment_score):
         return 'neutral'
 
 def evaluate_predictions(predictions, gold_standard):
-    # Assume predictions and gold_standard are dictionaries with aspect terms as keys
-    # and sentiment polarities ('positive', 'negative', 'neutral') as values.
     true_positives = {k: 0 for k in predictions.keys()}
     false_positives = {k: 0 for k in predictions.keys()}
     false_negatives = {k: 0 for k in predictions.keys()}
@@ -110,13 +108,13 @@ def evaluate_predictions(predictions, gold_standard):
 def process_files(train_files, test_files_no_labels, test_files_gold):
     # Predictions is a dict with key: (aspect, sentence_id) to handle multiple aspects and sentences
     predictions = {}
-    sentence_id = 0  # Initialize sentence_id if you need to uniquely identify sentences
+    sentence_id = 0 
 
     # Process test files without labels to predict sentiment
     for file_path in test_files_no_labels:
         data = parse_xml(file_path)
         for sentence_data in data:  # Iterate directly through the list
-            sentence, aspects, _ = sentence_data  # Assuming you don't need aspect categories here
+            sentence, aspects, _ = sentence_data  
             for aspect_term, polarity, _, _ in aspects:  # Unpack aspect term details
                 sentiment_score = calculate_sentiment(aspect_term, sentence)
                 predictions[(aspect_term, sentence_id)] = determine_polarity(sentiment_score)
@@ -140,7 +138,6 @@ def process_files(train_files, test_files_no_labels, test_files_gold):
     print(f'Accuracy: {accuracy:.4f}\nRecall: {recall:.4f}\nF-measure: {F_measure:.4f}')
 
 
-# Example usage:
 train_files = ["SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Restaurants_Train.xml", "SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Laptop_Train.xml"]
 test_files_no_labels = ["SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Restaurants_Test_NoLabels.xml", "SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Laptop_Test_NoLabels.xml"]
 test_files_gold = ["SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Restaurants_Test_Gold.xml", "SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Laptop_Test_Gold.xml"]

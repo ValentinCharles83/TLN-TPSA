@@ -17,7 +17,6 @@ def visualize_sentiment(data_paths):
             pos_counts.append(pos)
             neg_counts.append(neg)
 
-    # Assuming you have the same order of files for pos_counts and neg_counts
     labels = ['Train 1', 'Train 2', 'Test Gold 1', 'Test Gold 2']
     x = range(len(labels))
 
@@ -30,5 +29,4 @@ def visualize_sentiment(data_paths):
     plt.legend()
     plt.show()
 
-# Call visualize_sentiment with paths to your processed files
 visualize_sentiment(['Restaurants_Train_Sentiment_Analysis_Processed.txt', 'Laptop_Train_Sentiment_Analysis_Processed.txt', 'Restaurants_Test_Gold_Sentiment_Analysis_Processed.txt', 'Laptop_Test_Gold_Sentiment_Analysis_Processed.txt'])

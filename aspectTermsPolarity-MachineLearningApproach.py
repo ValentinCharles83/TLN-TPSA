@@ -13,7 +13,6 @@ nltk.download('punkt')
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
-# Updated function to parse XML and extract needed data
 def parse_and_combine_xml(files):
     combined_df = pd.DataFrame()
     for file_path in files:
@@ -38,13 +37,11 @@ def parse_and_combine_xml(files):
         combined_df = pd.concat([combined_df, temp_df], ignore_index=True)
     return combined_df
 
-# Specify training files
 train_files = [
     'SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Restaurants_Train.xml',
     'SemEval\'14-ABSA-TrainData_v2 & AnnotationGuidelines/Laptop_Train.xml'
 ]
 
-# Parse training data
 train_df = parse_and_combine_xml(train_files)
 
 # Preprocessing and feature extraction
